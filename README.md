@@ -5,3 +5,6 @@ Current alogorithm
 1. Get 10 tweets from Twitter consisting keyword "Trump"
 2. Get each tweets third word and make it a sentence
 3. Automatically tweet every 60sec
+
+Bot twitter account
+https://twitter.com/twitbot52175008
